@@ -1,0 +1,16 @@
+.section-title {
+    text-align: center;
+    padding: 0 110px;
+    margin-bottom: 110px;
+}
+
+.section-title h2 {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.section-title p {
+    margin-bottom: 0;
+    font-weight: 500;
+}
